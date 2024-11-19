@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Youssof 👋
 
-<!--
-**youbendary/youbendary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an honors student at Northeastern University, studying Computer Science with a minor in Mathematics. My passion lies in solving real-world challenges through technology and building meaningful projects that create impact.  
 
-Here are some ideas to get you started:
+Feel free to explore my GitHub to see some of my work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### A Little About Me:
+- 🌱 Currently learning: Cloud infrastructure and advanced AI techniques
+- 🔭 Recent experience: Working on machine learning and data infrastructure during my co-ops
+- ⚡ Fun fact: I studied art's influence on human interaction during a summer abroad in Japan
+
+---
+
+📫 Let's connect:  
+- [LinkedIn](https://linkedin.com/in/youssof-bendary/)  
+- [GitHub](https://github.com/youbendary)
