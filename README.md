@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/youbendary/youbendary/main/pfp.jpeg" alt="Youssof Bendary" width="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/youbendary/youbendary/main/pfp.jpeg" alt="Youssof Bendary" width="200" style="border-radius: 50%;">
 </div>
 
 # Hi, I'm Youssof 👋
