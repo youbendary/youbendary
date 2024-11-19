@@ -14,5 +14,4 @@ Feel free to explore my GitHub to see some of my work!
 ---
 
 📫 Let's connect:  
-- [LinkedIn](https://linkedin.com/in/youssof-bendary/)  
-- [GitHub](https://github.com/youbendary)
+- [LinkedIn](https://linkedin.com/in/youssof-bendary/) 
