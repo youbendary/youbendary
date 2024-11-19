@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/youbendary/youbendary/main/pfp.jpeg" alt="Youssof Bendary" width="200" style="border-radius: 50%;">
-</div>
-
 # Hi, I'm Youssof 👋
 
 I'm an honors student at Northeastern University, studying Computer Science with a minor in Mathematics. My passion lies in solving real-world challenges through technology and building meaningful projects that create impact.
