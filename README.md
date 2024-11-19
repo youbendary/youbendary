@@ -7,7 +7,7 @@ Feel free to explore my GitHub to see some of my work!
 ---
 
 ### 🌟 About Me:
-- 🌱 Currently learning: Cloud infrastructure and advanced AI techniques
+- 🌱 Currently learning: Data aggregation and infrastructure at eMoney Advisor, Fidelity
 - 🔭 Recent experience: Working on machine learning and data infrastructure during my co-ops
 - ⚡ Fun fact: I studied art's influence on human interaction during a summer abroad in Japan
 
