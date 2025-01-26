@@ -9,7 +9,6 @@ Feel free to explore my GitHub to see some of my work!
 ### 🌟 About Me:
 - 🌱 Currently learning: Cloud infrastructure and Data aggregation at eMoney Advisor, Fidelity
 - 🔭 Recent experience: Working on automating national election software with LLMs during my last co-op
-- ⚡ Fun fact: I studied art's influence on human interaction during a summer abroad in Japan
 
 ---
 
